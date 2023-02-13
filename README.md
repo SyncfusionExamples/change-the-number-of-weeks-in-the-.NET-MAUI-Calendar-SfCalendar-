@@ -1,7 +1,8 @@
-# How to change the number of weeks in the .NET MAUI Calendar (SfCalendar)
+# How to Change the Number of Weeks in the .NET MAUI Calendar (SfCalendar)
+
 This repository contains a sample to change the number of weeks in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13893/how-to-change-the-number-of-weeks-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
